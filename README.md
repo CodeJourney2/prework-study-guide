@@ -12,4 +12,4 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Installation] N/A
 - [Usage] This study guide contains subheadings which discuss the various components of coding involved in building a webpage. You can also use the DevTools console to see Javascript running.
 - [Credits] N/A
-- [License] MIT License
+- [License] MIT License.
